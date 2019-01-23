@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Algorithms" />
+        <module name="Algorithms4" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
